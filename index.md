@@ -3,7 +3,7 @@
 **Individual project — University of Manchester, "Corporate Contracting and Managerial Behaviour"**
 *Mar 2024 – Apr 2025 | Author: Zhongkai Huang*
 
-[📄 Download the full report (PDF)](./GBE programme.pdf)
+[📄 Download the full report (PDF)](./GBEprogramme.pdf)
 
 ---
 
