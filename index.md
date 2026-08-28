@@ -3,7 +3,7 @@
 **Individual project — University of Manchester, "Corporate Contracting and Managerial Behaviour"**
 *Mar 2024 – Apr 2025 | Author: Zhongkai Huang*
 
-[📄 Download the full report (PDF)](./GBE_programme.pdf)
+[⚡ Read the two-page decision brief](./GBE_policy_brief.pdf) · [📄 Download the full submitted report](./GBE_programme.pdf)
 
 ---
 
@@ -14,6 +14,30 @@
 **Approach:** Compare EDF, Vattenfall and Ørsted across ownership, capital intensity, financial resilience, governance and transition strategy, then translate the lessons into recommendations for GBE.
 
 **Conclusion:** GBE should combine initial public capital with green bonds and project-level public-private partnerships, prioritise offshore wind, grid storage and hydrogen, and scale projects in stages with explicit capital-discipline and affordability safeguards.
+
+## Decision Scorecard
+
+The enhancement converts the qualitative comparison into an explicit decision aid. Scores run from 1 (weak) to 5 (strong); weights reflect the policy objective and are transparent assumptions rather than measured outcomes.
+
+| Financing route | Fiscal resilience 25% | Energy security 25% | Delivery speed 20% | Affordability 15% | Governance 15% | Weighted score |
+|---|---:|---:|---:|---:|---:|---:|
+| Direct public funding | 2 | 5 | 3 | 4 | 4 | 3.50 |
+| Project-level PPP | 4 | 4 | 4 | 3 | 3 | 3.75 |
+| Green bonds / blended | 4 | 4 | 3 | 4 | 4 | **3.80** |
+
+The recommended solution is not a winner-takes-all route: use public seed capital for mandate alignment, green bonds for scalable finance and PPPs for project-level risk sharing.
+
+## Priority Risk Matrix
+
+| Risk | Likelihood | Impact | Leading indicator | Control |
+|---|---|---|---|---|
+| Major-project cost overrun | High | High | Cost and schedule variance | Independent stage gates, contingency and stop-loss review |
+| Power-price / offtake exposure | Medium | High | Uncontracted output | Long-term offtake mix and hedging policy |
+| Supply-chain bottlenecks | High | Medium | Lead times and supplier concentration | Dual sourcing and domestic capability plan |
+| Affordability conflict | Medium | High | Household burden and arrears | Targeted support and distributional assessment |
+| Policy and governance drift | Medium | High | Mandate exceptions | Published objectives, board accountability and audit trail |
+
+The [two-page policy brief](./GBE_policy_brief.pdf) presents the scorecard, implementation gates, risk controls and decision dashboard in recruiter-friendly form.
 
 ## Project Background
 
